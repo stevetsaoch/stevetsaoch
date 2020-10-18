@@ -1,6 +1,6 @@
-### Hi there 👋
+### Hi there 👋 :haircut:
 
-Here are some ideas to get you started:
+Here are some ideas tgio get you started:
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
