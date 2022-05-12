@@ -2,13 +2,12 @@
 
 Here are some ideas tgio get you started:
 
-- 🔭 I’m currently working on multiple machine learning projects( data set on kaggle).
-- 🌱 I’m currently learning data analysis, machine learning and Deep learning.
+- 🔭 I’m currently working on web backend project.
+- 🌱 I’m currently learning Python, Django, Jquery and .
 - ⚙ I’m familiar with:
-![](https://img.shields.io/badge/python-3.8-blue) ![](https://img.shields.io/badge/SQL-MySQL-blue)
+![](https://img.shields.io/badge/python-3.8-blue) ![](https://img.shields.io/badge/SQL-MySQL-blue) ![](https://img.shields.io/badge/Django-4.0.1-blue)
 - 📉 I’m good at these data analysis tools:
-![](https://img.shields.io/badge/NumPy-1.2-green) ![](https://img.shields.io/badge/pandas-1.2.4-green)
-![](https://img.shields.io/badge/sklean-0.19-green) ![](https://img.shields.io/badge/matplotlib-3.4-brightgreen)
+
 ![](https://img.shields.io/badge/seaborn-0.11-brightgreen) 
 ![](https://img.shields.io/badge/optuna-2.7-brightgreen)
 
