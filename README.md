@@ -2,7 +2,7 @@
 
 Here are some ideas tgio get you started:
 
-- 🔭 I’m currently working on web backend project.
+- 🔭 I’m currently working on web Back-end project.
 - 🌱 I’m currently learning Python, Django, Jquery, MySQL and other web development technics.
 - ⚙ I’m good at:
 <br></br>
@@ -16,5 +16,6 @@ Here are some ideas tgio get you started:
 <br></br>
 ![](https://img.shields.io/badge/NumPy-1.2-green) ![](https://img.shields.io/badge/pandas-1.2.4-green) ![](https://img.shields.io/badge/sklean-0.19-green) ![](https://img.shields.io/badge/matplotlib-3.4-brightgreen) ![](https://img.shields.io/badge/seaborn-0.11-brightgreen) 
 <br></br>
+- 🎯 I’m currently learning Unit test, Design pattern and Algorithm.
 - 📫 How to reach me: stevetsaoch@gmail.com
 
