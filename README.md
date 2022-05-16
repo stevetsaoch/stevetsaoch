@@ -12,7 +12,7 @@ Here are some ideas tgio get you started:
 <br></br>
 ![](https://img.shields.io/badge/jQuery--green) ![](https://img.shields.io/badge/HTML--green) ![](https://img.shields.io/badge/CSS--green)
 <br></br>
-- 📉 I was experienced in using data analysis and machine learning tools such as:
+- 📉 I was experienced in data analysis/visualization and machine learning by utilizing tools below:
 <br></br>
 ![](https://img.shields.io/badge/NumPy-1.2-green) ![](https://img.shields.io/badge/pandas-1.2.4-green) ![](https://img.shields.io/badge/sklean-0.19-green) ![](https://img.shields.io/badge/matplotlib-3.4-brightgreen) ![](https://img.shields.io/badge/seaborn-0.11-brightgreen) 
 <br></br>
