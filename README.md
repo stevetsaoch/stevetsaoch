@@ -3,7 +3,7 @@
 Here are some ideas tgio get you started:
 
 - 🔭 I’m currently working on web Back-end project.
-- 🌱 I’m have a good head for Python, Django, jQuery, MySQL and other web development techniques.
+- 🌱 I have a good head for Python, Django, jQuery, MySQL and other web development techniques.
 - ⚙ I’m good at:
 <br></br>
 ![](https://img.shields.io/badge/python-3.8-blue) ![](https://img.shields.io/badge/Django-4.0.1-blue) ![](https://img.shields.io/badge/SQL-MySQL-blue)
