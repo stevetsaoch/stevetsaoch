@@ -1,6 +1,6 @@
 ### Hi there 👋 :haircut:
 
-Here are some ideas tgio get you started:
+Here are some ideas to get you started:
 
 - 🔭 I’m currently working on web Back-end project.
 - 🌱 I have a good head for Python, Django, jQuery, MySQL and other web development techniques.
